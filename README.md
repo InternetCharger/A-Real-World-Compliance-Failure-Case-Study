@@ -1,4 +1,4 @@
-# MORSECORP Inc.: A Real-World Compliance Failure Case Study
+# MORSECORP Inc - A Compliance Failure Case Study
 ### Analyzing the $4.6M False Claims Act Settlement Through a GRC Lens
 
 **Focus Areas:** Governance, Risk & Compliance (GRC) · Federal Compliance Frameworks · Access Control
